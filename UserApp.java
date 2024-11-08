@@ -17,6 +17,5 @@ public class UserApp {
         //login another user
         app.loginUser("Maria");
 
-
     }
 }

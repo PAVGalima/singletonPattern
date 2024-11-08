@@ -37,5 +37,4 @@ public class Application {
         isUserLoggedIn = false;
         System.out.println(user + " is logged out!");
     }
-
 }
