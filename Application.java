@@ -1,5 +1,4 @@
 package singletonPattern;
-
 public class Application {
     private static Application instance;
     private String user;
